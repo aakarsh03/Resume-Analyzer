@@ -50,6 +50,7 @@ By following these steps, you will configure the application to use your Gemini 
 4. Optionally, ask specific questions in the query section.
 ## Main Image
 
-![Main Image](assets/main.png)
+![Main Image](https://github.com/your-username/Resume-Analyzer/raw/main/assets/main.png)
+
 
 
