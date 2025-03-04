@@ -34,7 +34,7 @@ salaries_data = {
 
 # Create a DataFrame
 salaries_df = pd.DataFrame(salaries_data)
-
+    
 # Prompt Templates for analysis
 prompts = {
     "Tech": {
